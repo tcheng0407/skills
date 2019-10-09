@@ -14,6 +14,7 @@
 ## 搜索
 ### 信息搜索
 1. [搜索研究院]（https://www.dianbo.org/9238/）
+2. [虫部落邀请码系列题目及参考答案汇总目录](https://www.chongbuluo.com/forum.php?mod=viewthread&tid=2129)：用于检验自己的搜索能力，学习案例。
 
 
 
